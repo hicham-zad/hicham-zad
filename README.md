@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hicham</h1>
-<h3 align="center">I am a software engineering student 😎</h3>
+<h3 align="center">I am a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-stf1&label=Profile%20views&color=0e75b6&style=flat" alt="hicham-stf1" /> </p>
 
