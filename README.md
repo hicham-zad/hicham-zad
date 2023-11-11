@@ -11,17 +11,6 @@
 </p>
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/hichamzaidi01 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-f6c179f5-3b89-49e9-85eb-5cf7a9d9e0be' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >hichamzaidi01</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'></div>
-        </div>
-    </a>
-</div>
 
 <script id='fiverr-seller-widget-script-f6c179f5-3b89-49e9-85eb-5cf7a9d9e0be' src='https://widgets.fiverr.com/api/v1/seller/hichamzaidi01?widget_id=f6c179f5-3b89-49e9-85eb-5cf7a9d9e0be' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
