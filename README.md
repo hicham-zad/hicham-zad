@@ -7,6 +7,17 @@
 <!--- 🌐 My Portfolio: [hicham-portfolio.com](https://hicham-portfolio.com)  Replace with your actual portfolio link -->
 - 📫 How to reach me: **hzaydi78@gmail.com**
 
+  <h3 align="left">Recent Works:</h3>
+<ul>
+  <li><a href="https://app.getsweet.ai" target="_blank">getsweet.ai</a></li>
+  <li><a href="https://robotizia.ai" target="_blank">robotizia.ai</a></li>
+  <li><a href="https://sasgpt.com" target="_blank">sasgpt.com</a></li>
+  <li><a href="https://bevinzey.com" target="_blank">bevinzey.com</a></li>
+  <li><a href="https://www.sedihisham.com/" target="_blank">sedihisham.com</a></li>
+  <li><a href="https://cookeai.com/" target="_blank">cookeai.com</a></li>
+  <li><a href="https://app.courtia.ca/" target="_blank">courtia.ca</a></li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hicham-za%C3%AFdi-2983331a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hicham Zaïdi" height="30" width="40" /></a>
