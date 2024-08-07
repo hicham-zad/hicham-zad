@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-stf1&label=Profile%20views&color=0e75b6&style=flat" alt="hicham-stf1" /> </p>
 
-- 🌐 My Portfolio: [hicham-portfolio.com](https://hicham-portfolio.com) <!-- Replace with your actual portfolio link -->
+<!--- 🌐 My Portfolio: [hicham-portfolio.com](https://hicham-portfolio.com)  Replace with your actual portfolio link -->
 - 📫 How to reach me: **hzaydi78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
