@@ -9,7 +9,7 @@
 
   <h3 align="left">Recent Works:</h3>
 <ul>
-    <li><a href="https://nomorecopyright.com" target="_blank">https://nomorecopyright.com</a></li>
+    <li><a href="https://nomorecopyright.com" target="_blank">NoMoreCopyRight</a></li>
   <li><a href="https://app.getsweet.ai" target="_blank">getsweet.ai</a></li>
   <li><a href="https://robotizia.ai" target="_blank">robotizia.ai</a></li>
   <li><a href="https://sasgpt.com" target="_blank">sasgpt.com</a></li>
