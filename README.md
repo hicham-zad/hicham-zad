@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Software Engineer</h2>
 <h3 align="center">Specializing in React.js, React Native, and Next.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-stf1&label=Profile%20views&color=0e75b6&style=flat" alt="hicham-stf1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-zad&label=Profile%20views&color=0e75b6&style=flat" alt="hicham-zad" /> </p>
 
 <!--- 🌐 My Portfolio: [hicham-portfolio.com](https://hicham-portfolio.com)  Replace with your actual portfolio link -->
 - 📫 How to reach me: **hzaydi24@gmail.com**
@@ -84,9 +84,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicham-stf1&show_icons=true&locale=en&layout=compact" alt="hicham-stf1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicham-zad&show_icons=true&locale=en&layout=compact" alt="hicham-zad" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicham-stf1&show_icons=true&locale=en" alt="hicham-stf1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicham-zad&show_icons=true&locale=en" alt="hicham-zad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-stf1&" alt="hicham-stf1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hicham-zad&" alt="hicham-zad" /></p>
