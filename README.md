@@ -12,11 +12,11 @@
 I’m a **Full-Stack Software Engineer** passionate about building SaaS apps, AI products, and mobile experiences that people love to use.  
 I focus on:
 - ✅ **Clean Code** – reliable, scalable, and easy to maintain  
-- 🎨 **Clean UI/UX Design** – user-friendly, modern, and engaging  
+- 🎨 **Clean UI/UX Design** – modern, user-friendly, and engaging  
 - ⚡ **AI Integration** – adding real-world value with smart AI tools  
 - 🌍 **SEO & ASO** – helping products grow faster with search & app store optimization  
 
-💡 I enjoy combining **Supabase** (modern backend), **Zustand** (lightweight state management), and **Next.js/React** to deliver fast, scalable apps.  
+💡 I love working with **Supabase**, **Zustand**, **React/Next.js**, and modern stacks to ship fast, scalable apps.  
 
 📫 Reach me at **hzaydi24@gmail.com**
 
@@ -56,9 +56,26 @@ I focus on:
 
   <!-- State & Backend -->
   <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://avatars.githubusercontent.com/u/79146003?s=200&v=4" alt="Zustand" width="40" height="40"/></a>
+  
+  <!-- Supabase Inline SVG -->
   <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hicham-zad/assets/main/supabase-logo.svg" alt="Supabase" width="40" height="40"/>
+    <svg width="40" height="40" viewBox="0 0 109 113" xmlns="http://www.w3.org/2000/svg">
+      <path d="M63.7076 110.284C60.8481 113.885 55.0502 111.912 54.9813 107.314L53.9738 40.0627L99.1935 40.0627C107.384 40.0627 111.952 49.5228 106.859 55.9374L63.7076 110.284Z" fill="url(#paint0_linear)"/>
+      <path d="M63.7076 110.284C60.8481 113.885 55.0502 111.912 54.9813 107.314L53.9738 40.0627L99.1935 40.0627C107.384 40.0627 111.952 49.5228 106.859 55.9374L63.7076 110.284Z" fill="url(#paint1_linear)" fill-opacity="0.2"/>
+      <path d="M45.317 2.07103C48.1765 -1.53037 53.9745 0.442937 54.0434 5.041L54.4849 72.2922H9.83113C1.64038 72.2922 -2.92775 62.8321 2.1655 56.4175L45.317 2.07103Z" fill="#3ECF8E"/>
+      <defs>
+        <linearGradient id="paint0_linear" x1="53.9738" y1="54.974" x2="94.1635" y2="71.8295" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#249361"/>
+          <stop offset="1" stop-color="#3ECF8E"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="36.1558" y1="30.578" x2="54.4844" y2="65.0806" gradientUnits="userSpaceOnUse">
+          <stop/>
+          <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+    </svg>
   </a>
+
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
