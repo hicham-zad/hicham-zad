@@ -23,13 +23,13 @@ I focus on:
 ---
 
 ### 💻 Featured Projects
-- [NoMoreCopyRight](https://nomorecopyright.com) – AI tool to generate copyright-free images  
+- [NoMoreCopyRight](https://nomorecopyright.com) – An AI tool that creates copyright-free images, videos, and music, combined with a free stock content platform..
 - [StoryTyme.ai](https://storytyme.ai) – Create **custom children’s books in 5 simple steps**  
-- [getsweet.ai](https://app.getsweet.ai) – AI platform for workflow automation  
+- [getsweet.ai](https://app.getsweet.ai) – AI platform for the social media automation  
 - [robotizia.ai](https://robotizia.ai) – AI content & automation platform  
 - [sasgpt.com](https://sasgpt.com) – AI SaaS GPT solutions  
-- [bevinzey.com](https://bevinzey.com) – AI business assistant  
-- [sedihisham.com](https://www.sedihisham.com/) – Portfolio & consulting  
+- [bevinzey.com](https://bevinzey.com) – AI education assistant  
+- [sedihisham.com](https://www.sedihisham.com/) – Ecom platform
 - [cookeai.com](https://cookeai.com/) – AI-powered recipe generator  
 - [courtia.ca](https://app.courtia.ca/) – SaaS for legal professionals  
 
