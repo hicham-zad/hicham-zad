@@ -31,7 +31,8 @@ I focus on:
 - [bevinzey.com](https://bevinzey.com) – AI education assistant  
 - [sedihisham.com](https://www.sedihisham.com/) – Ecom platform
 - [cookeai.com](https://cookeai.com/) – AI-powered recipe generator  
-- [courtia.ca](https://app.courtia.ca/) – SaaS for legal professionals  
+- [courtia.ca](https://app.courtia.ca/) – SaaS for legal professionals
+- https://juriximmo.ai/
 
 ---
 
